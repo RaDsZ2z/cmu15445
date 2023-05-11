@@ -1,4 +1,4 @@
-FALL2022OJ
+Online Judge
 
 https://www.gradescope.com/courses/425272
 # lab0
