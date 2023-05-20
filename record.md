@@ -1,10 +1,14 @@
-cankao
-
-https://github.com/ejunjsh/bustub
-
 Online Judge
 
 https://www.gradescope.com/courses/425272
+
+invite code
+
+5VX7JZ
+
+refer to
+
+https://github.com/ejunjsh/bustub
 # lab0
 官方文档地址
 
